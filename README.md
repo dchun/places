@@ -2,7 +2,7 @@ This app makes heavy use of a modified version of the MapView.js api
 
 The is an example of using local storage to save locations for those that care about speed during retreival of places and to save private places.
 
-Also, prior to google maps coming up with the "labels" feature there was no way to mark a saved place with personal details. And currently if saving lots of places, there is not way to make sense of the sead of yellow stars.
+Also, prior to google maps coming up with the "labels" feature there was no way to mark a saved place with personal details. And currently if saving lots of places, there is no way to make sense of the sea of yellow stars.
 
 So I made this app to help me organize my places. Along with adding notes.
 
