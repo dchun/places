@@ -33,4 +33,7 @@ local.properties
 node_modules/
 npm-debug.log
 
+/android/*
+/ios/*
+
 README.txt
