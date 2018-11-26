@@ -8,11 +8,7 @@ So I made this app to help me organize my places. Along with adding notes.
 
 People have recommended that I create a sharing function to this app. Although it would make it more popular, it would make it less private. And since the orignal designs had privacy in mind, it would take an architectural overhaul to include those features. If you would like to contribute designs to make it happen while also maintaining a healthy level of privacy, please do so.
 
-![Screenshot](images/5-5inAerial.png =250x)
-![Screenshot](images/5-5inColorPicker.png =250x)
-![Screenshot](images/5-5inFilter.png =250x)
-![Screenshot](images/5-5inPlace.png =250x)
-![Screenshot](images/5-5inSearch.png =250x)
+<img src="images/5-5inAerial.png" width="250"/>     <img src="images/5-5inColorPicker.png" width="250"/>     <img src="images/5-5inFilter.png" width="250"/>     <img src="images/5-5inPlace.png" width="250"/>     <img src="images/5-5inSearch.png" width="250"/>
 
 ### Modified external libraries:
 
